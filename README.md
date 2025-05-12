@@ -17,7 +17,5 @@ Key Functionalities
 
 Real-World Applications  
 - Algorithmic Trading: Automate buy/sell decisions based on predictions.  
-- Financial Dashboards: Integrate with tools like Streamlit for real-time insights.  
-- Portfolio Management: Assess risk and optimize investment strategies.
--  
+- Financial Dashboards: Integrate with tools like Streamlit for real-time insights.    
 Tech Stack : Python,Keras/TensorFlow,Pandas,Matplotlib,scikit-learn
